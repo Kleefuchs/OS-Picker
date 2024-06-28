@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wie wichtig ist dir Sicherheit ?.md",
+                "file": "sonstiges/Distro List.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "wie wichtig ist dir Sicherheit ?.md",
+                "file": "sonstiges/Distro List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wie wichtig ist dir Sicherheit ?.md",
+                "file": "sonstiges/Distro List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wie wichtig ist dir Sicherheit ?.md",
+                "file": "sonstiges/Distro List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wie wichtig ist dir Sicherheit ?.md"
+                "file": "sonstiges/Distro List.md"
               }
             }
           }
@@ -189,18 +189,33 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
-    "android.md",
-    "gar nicht.md",
-    "apple.md",
-    "sehr.md",
-    "wie wichtig ist dir Sicherheit ?.md",
-    "handy.md",
-    "Handy oder destkop ?.md",
-    "Hochsicherheitsgefängnis ?.md",
-    "hochsicherheitsgefängnis ?.md",
-    "Untitled.md",
-    "baban.md",
-    "WELCOME.md",
+    "Nein nyarch, AstolfoOs.md",
+    "Ja AstolfoOS.md",
+    "Nein nyarch.md",
+    "Nein VoidOS, AstolfoOS, nyarch.md",
+    "Ja VoidOs.md",
+    "Nein Hannah Montanna, Justin Biber,voidOS, AstolfoOS, nyarch.md",
+    "Ja Hannah Montanna, Justin Biber.md",
+    "sonstiges/Distro List.md",
+    "Hannah Montanna Linux.md",
+    "Justin Biber Linux.md",
+    "Ja Spaß.md",
+    "Ja slackware, TempleOs.md",
+    "Nein slackware.md",
+    "Unabhängig.md",
+    "Ja.md",
+    "Ja TempleOS.md",
+    "Nein Fedora, ZorinOS, Mint.md",
+    "Nein Zorin, Fedora.md",
+    "Ja ZorinOS.md",
+    "Nein Fedora.md",
+    "Ja Mint.md",
+    "Nein Debian, Fedora, ZorinOS, Mint.md",
+    "Nein kein Spaß.md",
+    "Ja Debian.md",
+    "Ja Arch, NixOS.md",
+    "Nein Arch.md",
+    "sonstiges",
     "banana"
   ]
 }
