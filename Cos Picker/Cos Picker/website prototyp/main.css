@@ -1,0 +1,13 @@
+body {
+background-color: rgb(1, 8, 8);
+color: antiquewhite;
+}
+
+p {
+position: absolute;
+left: 15%;
+top: 20%;
+padding:10%;
+border-radius: 20%;;
+background-color: rgb(207, 14, 14);
+}
