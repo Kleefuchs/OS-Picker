@@ -23,6 +23,7 @@ let questionData = {
  * Sets the questionData
  * Has some safety checks implemented
 */
+
 function setQuestionData(name, text, imagePath, description, buttons, linktext, path) {
     if(name!=undefined) {
         questionData.name = name;
@@ -89,7 +90,6 @@ function addImages() {
 */
 
 function setText() {
-    console.log(questionData.description);
     questionText.innerHTML = questionData.text;
 }
 
@@ -108,7 +108,7 @@ function setDescription() {
 function createButton(buttonData, index) {
     let button = document.createElement("button");
     button.onclick = function () {
-        init(questionData.currentPath + "/" + buttonData.nextPath + "/");
+        init(questionData.currentPath + "/" + buttonData.nextPath);
     };
     button.id = "question-button" + index;
     button.className = "question-button";
@@ -122,11 +122,29 @@ function createButton(buttonData, index) {
 
 function addButtons() {
     questionButtons.innerHTML = "";
-    let index = 0;
-    questionData.buttons.forEach((buttonData) => {
-        questionButtons.appendChild(createButton(buttonData, index));
-        index++;
-    });
+    {
+        let index = 0;
+        questionData.buttons.forEach((buttonData) => {
+            questionButtons.appendChild(createButton(buttonData, index));
+            index++;
+        });
+    }
+    if(questionData.currentPath!=treeFolderOriginal) {
+        let backButton = document.createElement("button");
+        backButton.innerHTML = "Zurück";
+        backButton.id = "question-button-back";
+        backButton.className = "question-button";
+        backButton.onclick = function () {
+            for(let index = questionData.currentPath.length - 1; index >= 0; index--) {
+                if(questionData.currentPath[index]=='/') {
+                    break;
+                }
+                console.log(questionData.currentPath[index]);
+            }
+            init(questionData.currentPath);
+        }
+        questionButtons.appendChild(backButton);
+    }
 }
 
 /*
