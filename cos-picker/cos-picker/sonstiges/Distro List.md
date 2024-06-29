@@ -1,6 +1,5 @@
 - Mainstream Linux Distros:
 	- [x] Arch Linux
-	- [x] EndeavourOS
 	- [x] Fedora
 	- [x] Debian
 	- [x] Ubuntu
@@ -23,6 +22,7 @@
 	- [x] Void Linux
 	- [x] Slackware
 	- [x] Justin Biber Linux
+	- [x] red-star-OS
 - Desktop:
 	- [x] Windows
 	- [x] macOS
