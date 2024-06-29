@@ -1,15 +1,32 @@
+html {
+    height: 100%;
+}
+
 body {
+    display: flex;
     background-image: url("background.jpg");
     height: 100%;
+    align-items: center;
+    margin: 0;
 }
 
 .maindiv {
     width: 90%;
     height: 90%;
     justify-content: center;
-    align-items: center;
-    margin: 20px;
-    background-color: rgba(194,194,194, 0.4);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.questiondiv {
+    background-color: rgba(194,194,194, 0.7);
     border-radius: 15px;
-    position: fixed;
+    flex: 1;
+}
+
+h2 {
+    color: white;
+    padding-bottom: 10px;
 }
