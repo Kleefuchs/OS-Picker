@@ -1,6 +1,6 @@
 {
-    "text": "Gute Performance?",
-    "description": "Besitzt du einen guten Computer?",
+    "text": "Quellenbasiert",
+    "description": "Sollen alle Pakete Kompiliert werden?",
     "buttons": [
         {
             "text": "Nein",

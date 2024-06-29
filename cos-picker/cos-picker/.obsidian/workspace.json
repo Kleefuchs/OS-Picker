@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ja, ein guter Computer.md",
+                "file": "Ja Gentoo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ja, ein guter Computer.md",
+                "file": "Ja Gentoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ja, ein guter Computer.md",
+                "file": "Ja Gentoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ja, ein guter Computer.md"
+                "file": "Ja Gentoo.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
+    "Nein kein Spaß.md",
+    "Unabhängig.md",
+    "Ja, ein guter Computer.md",
     "Windows.md",
     "Nein, kein guter Computer.md",
     "Windows 10.md",
@@ -157,7 +160,6 @@
     "Desktop.md",
     "Handy oder destkop ?.md",
     "Ja.md",
-    "Unabhängig.md",
     "Ja Spaß.md",
     "Firmengesteuert.md",
     "sonstiges/Distro List.md",
@@ -173,8 +175,6 @@
     "handy.md",
     "Windows 11.md",
     "Ja Arch, NixOS.md",
-    "MacOS.md",
-    "Sicherheit Apple.md",
     "sonstiges",
     "banana"
   ]
