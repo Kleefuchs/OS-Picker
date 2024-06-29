@@ -1,13 +1,16 @@
 body {
-background-color: rgb(1, 8, 2);
-color: rgb(255, 255, 255);
+background-color: rgb(151, 199, 155);
+color: rgb(102, 29, 29);
+font-size: 150%;
 }
 
 .startdiv {
 position: absolute;
-left: 15%;
+left: 5%;
 top: 20%;
-padding:10%;
-background-color:rgb(155, 35, 19);
-border-radius: 15%;
+padding:5%;
+background-color:rgb(255, 255, 255);
+border-radius: 20%;
+border: 1rem solid;
+border-color: black;
 }
