@@ -5,6 +5,10 @@
     "buttons": [
         {
             "text": "Start",
+            "nextPath": "../main"
+        },
+        {
+            "text": "Start (Alternativ)",
             "nextPath": "../test"
         }
     ]   
