@@ -97,4 +97,4 @@ async function initFromFile(path) {
     await setLinkText();
 }
 
-init("assets/start.js");
+initFromFile("assets/test/start.js");
