@@ -1,0 +1,1 @@
+MacOS ist sehr ähnlich zu IOS aber für Computer
