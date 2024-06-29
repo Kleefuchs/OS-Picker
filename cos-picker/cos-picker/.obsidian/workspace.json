@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MacOS.md",
+                "file": "sonstiges/Distro List.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MacOS.md",
+                "file": "sonstiges/Distro List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MacOS.md",
+                "file": "sonstiges/Distro List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MacOS.md",
+                "file": "sonstiges/Distro List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MacOS.md"
+                "file": "sonstiges/Distro List.md"
               }
             }
           }
@@ -189,6 +189,7 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
+    "MacOS.md",
     "Ja ich besitze bereits ein Apple gerät.md",
     "Nein.md",
     "Desktop.md",
@@ -214,7 +215,6 @@
     "Nein, kein guter Computer.md",
     "Windows 10.md",
     "Unabhängig.md",
-    "Firmengesteuert.md",
     "sonstiges",
     "banana"
   ]
