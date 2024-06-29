@@ -16,6 +16,7 @@ let questionData = {
 
 /*
  * Sets the questionData
+ * Has some safety checks implemented
 */
 function setQuestionData(name, text, description, buttons, linktext, path) {
     questionData.name = name;
@@ -42,14 +43,26 @@ function setQuestionData(name, text, description, buttons, linktext, path) {
     questionData.currentPath = path;
 }
 
+/*
+ * Sets the text on the website
+*/
+
 function setText() {
     console.log(questionData.description);
     questionText.innerHTML = questionData.text;
 }
 
+/*
+ * Sets the description
+*/
+
 function setDescription() {
     questionDescription.innerHTML = questionData.description;
 }
+
+/*
+ * Creates a button object to append to the button div
+*/
 
 function createButton(buttonData, index) {
     let button = document.createElement("button");
@@ -62,6 +75,10 @@ function createButton(buttonData, index) {
     return button;
 }
 
+/*
+ * Adds the buttons
+*/
+
 function addButtons() {
     questionButtons.innerHTML = "";
     let index = 0;
@@ -71,9 +88,17 @@ function addButtons() {
     });
 }
 
+/*
+ * Sets the Link Text
+*/
+
 function setLinkText() {
     questionLinkText.innerHTML = questionData.linktext;
 }
+
+/*
+ * Initialises the questionData and page based on the index.json in the specified folder
+*/
 
 async function init(path) {
     console.log(path)
