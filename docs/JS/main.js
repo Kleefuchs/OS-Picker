@@ -169,6 +169,7 @@ async function init(path) {
     await setDescription();
     await addButtons();
     await setLinkText();
+    await newTabAify();
 }
 
 init(treeFolderOriginal);
