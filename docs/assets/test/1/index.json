@@ -1,14 +1,6 @@
 {
-    "name": "Konfiguration",
-    "text": "Möchtest du dein System Konfigurieren Können?",
-    "buttons": [
-        {
-            "text": "Nein",
-            "nextPath": "0"
-        },
-        {
-            "text": "Ja",
-            "nextPath": "1"
-        }
-    ]
+    "name": "test",
+    "text": "Test",
+    "description": "Test",
+    "linktext": "test"
 }
