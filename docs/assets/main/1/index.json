@@ -1,0 +1,14 @@
+{
+    "text": "Linux",
+    "description": "Möchtest du Linux benutzen?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}

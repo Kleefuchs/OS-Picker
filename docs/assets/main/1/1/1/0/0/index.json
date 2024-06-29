@@ -1,0 +1,14 @@
+{
+    "text": "Quellenbasiert",
+    "description": "Sollen alle Pakete Kompiliert werden?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}
