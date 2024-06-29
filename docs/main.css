@@ -8,6 +8,7 @@ body {
     height: 100%;
     align-items: center;
     margin: 0;
+    background-repeat: repeat;
 }
 
 .maindiv {
@@ -27,7 +28,7 @@ body {
     display: flex;
 }
 
-h2 {
+h1 {
     color: white;
     padding-bottom: 10px;
 }
