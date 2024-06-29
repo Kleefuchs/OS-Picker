@@ -1,0 +1,14 @@
+{
+    "name": "test",
+    "text": "Handy oder Desktop?",
+    "buttons": [
+        {
+            "text": "Handy",
+            "nextPath": "0"
+        },
+        {
+            "text": "Desktop",
+            "nextPath": "1"
+        }
+    ]
+}
