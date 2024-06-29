@@ -1,31 +1,30 @@
 - Mainstream Linux Distros:
-	- Arch Linux (check)
-	- EndeavourOS (check)
-	- Fedora (check)
-	- Debian (check)
-	- ZorinOS (check)
-	- Gentoo (check)
-	- Linux Mint (check)
-	- NixOS (check)
+	- [x] Arch Linux
+	- [x] EndeavourOS
+	- [x] Fedora
+	- [x] Debian
+	- [x] Ubuntu
+	- [x] ZorinOS
+	- [x] Gentoo
+	- [x] Linux Mint
+	- [x] Pop!OS
+	- [x] NixOS
 - Handy:
-	- Android: (check)
-	  - Stock
-	  - GrapheneOS
-	  - Lineage OS 
-	- iOS (check)
-	- Ubuntu Touch
-	- Postmarket OS
-	- Windows Phone
+	- [x] Android:
+	  - [ ] Stock
+	  - [ ] GrapheneOS
+	  - [ ] Lineage OS
+	- [x] iOS
+	- [x] Ubuntu Touch
+	- [x] Postmarket OS
+	- [x] Windows Phone
 - Weird Linux Distros:
-    - nyarch (check) 
-    - astolfo OS (check)
-	- Hannah Montana Linux (check) 
-	- Void Linux (check)
-	- Slackware (check)
-	- Justin Biber Linux (check)
-	- TempleOS (check)
+	- [x] Hannah Montana Linux
+	- [x] Void Linux
+	- [x] Slackware
+	- [x] Justin Biber Linux
 - Desktop:
-	- Windows (check)
-	- windows 10 (check)
-	- macOS (check)
-	- FreeBSD (check)
+	- [x] Windows
+	- [x] macOS
+	- [x] FreeBSD
+	- [x] TempleOS
