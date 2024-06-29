@@ -1,6 +1,6 @@
 {
     "text": "Pakete",
-    "description": "Soll es zugriff auf ein von der Community ",
+    "description": "Soll es zugriff auf ein von der Community verwaltetes Paketdepot geben?",
     "buttons": [
         {
             "text": "Nein",
@@ -9,10 +9,6 @@
         {
             "text": "Ja",
             "nextPath": "1"
-        },
-        {
-            "text": "Sehr",
-            "nextPath": "2"
         }
     ]
 }
