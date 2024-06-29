@@ -3,7 +3,9 @@ let questionButtons = document.getElementById("question-buttons");
 let questionDescription = document.getElementById("question-description");
 let questionText = document.getElementById("question-text");
 
-//
+/*
+ * Stores all data
+*/
 let questionData = {
     "name": "",
     "text": "",
@@ -12,7 +14,10 @@ let questionData = {
     "buttons": []
 }
 
-function setTree(name, text, description, buttons, path) {
+/*
+ * Sets the questionData
+*/
+function setQuestionData(name, text, description, buttons, path) {
     questionData.name = name;
     questionData.text = text;
     if(description!=undefined) {
@@ -23,7 +28,7 @@ function setTree(name, text, description, buttons, path) {
     if(buttons!=undefined) {
         questionData.buttons = buttons;
     } else {
-        questionButtons.button = [];
+        questionData.buttons = [];
     }
     questionData.currentPath = path;
 }
@@ -56,7 +61,7 @@ function addButtons() {
 async function init(path) {
     console.log(path)
     await $.getJSON(path + "/index.json", function (data) {
-        setTree(data.name, data.text, data.description, data.buttons, path);
+        setQuestionData(data.name, data.text, data.description, data.buttons, path);
     });
     await setText();
     await setDescription();
