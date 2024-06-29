@@ -1,6 +1,6 @@
 {
-    "text": "Konfiguration",
-    "description": "Möchtest du dein System konfigurieren können?",
+    "text": "Linux",
+    "description": "Möchtest du Linux benutzen?",
     "buttons": [
         {
             "text": "Nein",

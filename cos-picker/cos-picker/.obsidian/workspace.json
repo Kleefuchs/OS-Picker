@@ -13,50 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "Firmengesteuert.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a297821153528e07",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7ebfe33f0b85a07",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "sonstiges/Distro List.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6666666666666666,
-                  "close": true
-                }
               }
             }
           }
@@ -110,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9131aad5ab6c439d",
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "Firmengesteuert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "Firmengesteuert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sonstiges/Distro List.md"
+                "file": "Firmengesteuert.md"
               }
             }
           }
@@ -189,32 +149,32 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
-    "MacOS.md",
-    "Ja ich besitze bereits ein Apple gerät.md",
-    "Nein.md",
+    "Ja.md",
+    "Unabhängig.md",
     "Desktop.md",
+    "Handy oder destkop ?.md",
     "sonstiges/Distro List.md",
-    "Nein ich besitze kein Apple gerät.md",
-    "Windows.md",
-    "Ja, ein guter Computer.md",
-    "Ja tails,kubes.md",
     "Nein Kubes.md",
-    "Ja Tails.md",
-    "Ja tails,kali,kubes.md",
     "Nein Kali.md",
     "Nein Arch,tails,kali,Kubes.md",
-    "Nein Arch.md",
-    "Ja Arch, NixOS.md",
-    "Nein Arch,tails,kali.md",
-    "Ja (POP OS).md",
-    "Ja.md",
-    "Hannah Montanna Linux.md",
-    "Handy oder destkop ?.md",
-    "Freiheit Android.md",
-    "Ja NixOs.md",
-    "Nein, kein guter Computer.md",
+    "Ja tails,kubes.md",
+    "Ja tails,kali,kubes.md",
+    "Ja Tails.md",
     "Windows 10.md",
-    "Unabhängig.md",
+    "Nein nyarch.md",
+    "Nein nyarch, AstolfoOs, red star.md",
+    "Freiheit Android.md",
+    "handy.md",
+    "Windows 11.md",
+    "Windows.md",
+    "Ja Arch, NixOS.md",
+    "MacOS.md",
+    "Sicherheit Apple.md",
+    "Nein AstolfOS, Nyarch.md",
+    "Ja Red star OS.md",
+    "Nein kein Spaß.md",
+    "Ja Debian.md",
+    "Nein Debian, Fedora, ZorinOS, Mint.md",
     "sonstiges",
     "banana"
   ]

@@ -1,13 +1,13 @@
 {
-    "name": "test",
-    "text": "Handy oder Desktop?",
+    "text": "Handy oder Computer?",
+    "description": "Welches Gerät verwendest du?",
     "buttons": [
         {
             "text": "Handy",
             "nextPath": "0"
         },
         {
-            "text": "Desktop",
+            "text": "Computer",
             "nextPath": "1"
         }
     ]
