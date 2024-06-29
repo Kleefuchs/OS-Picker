@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ja Arch, NixOS.md",
+                "file": "Desktop.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ja Arch, NixOS.md",
+                "file": "Desktop.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ja Arch, NixOS.md",
+                "file": "Desktop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ja Arch, NixOS.md",
+                "file": "Desktop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ja Arch, NixOS.md"
+                "file": "Desktop.md"
               }
             }
           }
@@ -189,19 +189,21 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
+    "Handy oder destkop ?.md",
     "handy.md",
+    "Freiheit Android.md",
+    "Desktop.md",
+    "Firmengesteuert.md",
     "Sicherheit Apple.md",
+    "Ja Arch, NixOS.md",
     "Nein nyarch, AstolfoOs, red star.md",
     "Nein AstolfOS, Nyarch.md",
     "Ja Red star OS.md",
-    "Freiheit Android.md",
     "Nein kein Spaß.md",
-    "Ja Arch, NixOS.md",
     "Ja Debian.md",
     "Nein Debian, Fedora, ZorinOS, Mint.md",
     "Unabhängig.md",
     "Ja.md",
-    "Desktop.md",
     "sonstiges/Distro List.md",
     "Ja Spaß.md",
     "Ja slackware, TempleOs.md",
@@ -213,8 +215,6 @@
     "Ja VoidOs.md",
     "Nein Hannah Montanna, Justin Biber,voidOS, AstolfoOS, nyarch.md",
     "Ja Hannah Montanna, Justin Biber.md",
-    "Hannah Montanna Linux.md",
-    "Justin Biber Linux.md",
     "sonstiges",
     "banana"
   ]

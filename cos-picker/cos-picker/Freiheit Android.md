@@ -1,0 +1,2 @@
+Android ist ein Linux basiertes von Google entwickeltes Betriebssystem das auf sehr vielen Mobiltelefonen läuft.
+Die Größten Features von Android sind die Große App Freiheit die zum beispiel auch durch Apk's gewährleistet werden. (Apk's sind Paketdateien für Apps die man im Internet runterladen kann). 
