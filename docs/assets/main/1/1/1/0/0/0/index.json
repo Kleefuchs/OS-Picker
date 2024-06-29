@@ -1,5 +1,14 @@
 {
-    "text": "Arch Linux",
-    "description": "Arch Linux ist eine Linux Distribution die sehr Simpel und Leicht ist. Ihre Nutzer prahlen oft mit dem Satz \"I use Arch (btw)\".",
-    "linktext": "<a href='https://archlinux.org'>Download</a>"
+    "text": "Alter",
+    "description": "Möchtest du eine alte Distro verwenden?"
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
 }
