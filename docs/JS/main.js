@@ -86,4 +86,15 @@ async function init(path) {
     await setLinkText();
 }
 
-init("assets/test");
+async function initFromFile(path) {
+    console.log(path)
+    await $.getJSON(path, function (data) {
+        setQuestionData(data.name, data.text, data.description, data.buttons, data.linktext, path);
+    });
+    await setText();
+    await setDescription();
+    await addButtons();
+    await setLinkText();
+}
+
+init("assets/start.js");
