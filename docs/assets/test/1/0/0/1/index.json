@@ -1,6 +1,6 @@
 {
-    "name": "Apple?",
-    "text": "Besitzt du ein Apple Gerät?",
+    "name": "Quelle",
+    "text": "Möchtest du ein Quelloffenes Betriebssystem",
     "buttons": [
         {
             "text": "Nein",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ja.md",
+                "file": "Ja, ein guter Computer.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ja.md",
+                "file": "Ja, ein guter Computer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ja.md",
+                "file": "Ja, ein guter Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ja.md",
+                "file": "Ja, ein guter Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ja.md"
+                "file": "Ja, ein guter Computer.md"
               }
             }
           }
@@ -189,21 +189,23 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
-    "Desktop.md",
-    "Handy oder destkop ?.md",
-    "handy.md",
-    "Sicherheit Apple.md",
-    "Freiheit Android.md",
-    "Nein BSD.md",
-    "Firmengesteuert.md",
-    "Ja BSD , Gentoo.md",
-    "Ja, ein guter Computer.md",
-    "Windows 11.md",
     "Windows.md",
     "Nein, kein guter Computer.md",
     "Windows 10.md",
     "Nein ich besitze kein Apple gerät.md",
     "Nein.md",
+    "Desktop.md",
+    "Ja.md",
+    "Unabhängig.md",
+    "Firmengesteuert.md",
+    "Handy oder destkop ?.md",
+    "handy.md",
+    "Sicherheit Apple.md",
+    "Freiheit Android.md",
+    "Nein BSD.md",
+    "Ja BSD , Gentoo.md",
+    "Ja, ein guter Computer.md",
+    "Windows 11.md",
     "Ja ich besitze bereits ein Apple gerät.md",
     "MacOS.md",
     "Ja Arch, NixOS.md",
@@ -213,8 +215,6 @@
     "Nein kein Spaß.md",
     "Ja Debian.md",
     "Nein Debian, Fedora, ZorinOS, Mint.md",
-    "Unabhängig.md",
-    "Ja.md",
     "sonstiges",
     "banana"
   ]

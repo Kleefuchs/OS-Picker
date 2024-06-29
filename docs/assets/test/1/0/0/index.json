@@ -1,6 +1,6 @@
 {
-    "name": "Apple?",
-    "text": "Besitzt du ein Apple Gerät?",
+    "name": "Computer",
+    "text": "Besitzt du einen guten Computer?",
     "buttons": [
         {
             "text": "Nein",
