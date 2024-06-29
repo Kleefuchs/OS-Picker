@@ -1,6 +1,6 @@
 {
     "text": "Alter",
-    "description": "Möchtest du eine alte Distro verwenden?"
+    "description": "Möchtest du eine alte Distro verwenden?",
     "buttons": [
         {
             "text": "Nein",
