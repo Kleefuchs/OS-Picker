@@ -1,0 +1,14 @@
+{
+    "text": "Erfahrung",
+    "description": "Möchtest du eine komplett unabhänhige Erfahrung?",
+    "buttons": [
+        {
+            "text": "unabhängig",
+            "nextPath": "0"
+        },
+        {
+            "text": "abhängig",
+            "nextPath": "1"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "text": "NixOS",
+    "description": "NixOS ist eine Linux-Distribution auf Basis des Paketmanagers Nix. NixOS basiert auf dem Ansatz deklarativer Systemkonfiguration, um reproduzierbare und zuverlässige Systemkonfiguration und in Folge reibungslose Systemaktualisierungen zu erlauben.",
+    "linktext": "<a href='https://nixos.org/download/'>Download</a>"
+}

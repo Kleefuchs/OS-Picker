@@ -1,13 +1,13 @@
 - Mainstream Linux Distros:
-	- [ ] Arch Linux
-	- [ ] Fedora
+	- [x] Arch Linux
+	- [x] Fedora
 	- [x] Debian
 	- [x] Ubuntu
-	- [ ] ZorinOS
+	- [x] ZorinOS
 	- [ ] Gentoo
 	- [x] Linux Mint
 	- [x] Pop!OS
-	- [ ] NixOS
+	- [x] NixOS
 - Handy:
 	- [x] Android:
 	- [x] iOS

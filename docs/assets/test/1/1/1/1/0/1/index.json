@@ -1,0 +1,14 @@
+{
+    "text": "Musiker",
+    "description": "Justin Biber oder Hannah Montanna?",
+    "buttons": [
+        {
+            "text": "Justin Biber",
+            "nextPath": "0"
+        },
+        {
+            "text": "Hannah Montanna",
+            "nextPath": "1"
+        }
+    ]
+}

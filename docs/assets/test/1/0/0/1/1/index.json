@@ -1,6 +1,6 @@
 {
-    "text": "Alter",
-    "description": "Möchtest du ein altes Betriebssystem?",
+    "name": "Linux",
+    "text": "Möchtest du Linux verwenden ?",
     "buttons": [
         {
             "text": "Nein",
