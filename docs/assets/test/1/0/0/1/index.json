@@ -1,0 +1,14 @@
+{
+    "name": "Quelle",
+    "text": "Möchtest du ein Quelloffenes Betriebssystem",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}

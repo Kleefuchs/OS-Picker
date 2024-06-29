@@ -1,13 +1,13 @@
 {
-    "name": "test",
-    "text": "Handy oder Desktop?",
+    "name": "Apple?",
+    "text": "Besitzt du ein Apple Gerät?",
     "buttons": [
         {
-            "text": "Handy",
+            "text": "Nein",
             "nextPath": "0"
         },
         {
-            "text": "Desktop",
+            "text": "Ja",
             "nextPath": "1"
         }
     ]
