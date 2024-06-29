@@ -1,3 +1,14 @@
 {
-    "text": ""
+    "text": "Tracking?",
+    "description": "Möchtest du von Nordkorea Getrackt werden?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
 }
