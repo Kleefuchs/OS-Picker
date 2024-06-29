@@ -18,7 +18,7 @@
 	- [ ] Justin Biber Linux
 	- [ ] red-star-OS
 - Desktop:
-	- [ ] Windows
+	- [x] Windows
 	- [ ] macOS
 	- [ ] FreeBSD
 	- [ ] TempleOS
