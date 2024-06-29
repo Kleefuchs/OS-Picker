@@ -3,6 +3,9 @@ let questionDescription = document.getElementById("question-description");
 let questionImages = document.getElementById("question-images");
 let questionButtons = document.getElementById("question-buttons");
 let questionLinkText = document.getElementById("question-linktext");
+
+let treeFolderOriginal = "assets/launcher";
+
 /*
  * Stores all data
 */
@@ -56,6 +59,10 @@ function setQuestionData(name, text, imagePath, description, buttons, linktext, 
     questionData.currentPath = path;
 }
 
+/*
+ * Creates an image from a path
+*/
+
 function createImage(imagePath, index) {
     console.log(imagePath);
     let image = document.createElement("img");
@@ -64,6 +71,10 @@ function createImage(imagePath, index) {
     image.id = "question-image" + index;
     return image;
 }
+
+/*
+ * Adds Images to the div for images
+*/
 
 function addImages() {
     questionImages.innerHTML = "";
@@ -142,4 +153,4 @@ async function init(path) {
     await setLinkText();
 }
 
-init("assets/launcher");
+init(treeFolderOriginal);
