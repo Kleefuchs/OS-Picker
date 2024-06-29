@@ -1,5 +1,6 @@
 {
     "name": "test",
     "text": "Test",
-    "description": "Test"
+    "description": "Test",
+    "linktext": "test"
 }
