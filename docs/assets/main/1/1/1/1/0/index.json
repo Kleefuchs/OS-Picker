@@ -1,0 +1,14 @@
+{
+    "text": "Musik",
+    "description": "Magst du Musik?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}
