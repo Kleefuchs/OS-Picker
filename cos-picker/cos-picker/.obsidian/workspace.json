@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ja, ein guter Computer.md",
+                "file": "sonstiges/Distro List.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ja, ein guter Computer.md",
+                "file": "sonstiges/Distro List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ja, ein guter Computer.md",
+                "file": "sonstiges/Distro List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ja, ein guter Computer.md",
+                "file": "sonstiges/Distro List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ja, ein guter Computer.md"
+                "file": "sonstiges/Distro List.md"
               }
             }
           }
@@ -189,32 +189,32 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
-    "Windows.md",
-    "Nein, kein guter Computer.md",
     "Windows 10.md",
-    "Nein ich besitze kein Apple gerät.md",
-    "Nein.md",
-    "Desktop.md",
-    "Ja.md",
-    "Unabhängig.md",
-    "Firmengesteuert.md",
-    "Handy oder destkop ?.md",
-    "handy.md",
-    "Sicherheit Apple.md",
-    "Freiheit Android.md",
-    "Nein BSD.md",
-    "Ja BSD , Gentoo.md",
-    "Ja, ein guter Computer.md",
-    "Windows 11.md",
-    "Ja ich besitze bereits ein Apple gerät.md",
-    "MacOS.md",
-    "Ja Arch, NixOS.md",
+    "Nein nyarch.md",
     "Nein nyarch, AstolfoOs, red star.md",
+    "Freiheit Android.md",
+    "handy.md",
+    "sonstiges/Distro List.md",
+    "Windows 11.md",
+    "Windows.md",
+    "Ja Arch, NixOS.md",
+    "MacOS.md",
+    "Sicherheit Apple.md",
     "Nein AstolfOS, Nyarch.md",
     "Ja Red star OS.md",
     "Nein kein Spaß.md",
     "Ja Debian.md",
     "Nein Debian, Fedora, ZorinOS, Mint.md",
+    "Unabhängig.md",
+    "Ja.md",
+    "Desktop.md",
+    "Ja Spaß.md",
+    "Ja slackware, TempleOs.md",
+    "Nein slackware.md",
+    "Nein nyarch, AstolfoOs.md",
+    "Ja AstolfoOS.md",
+    "Nein VoidOS, AstolfoOS, nyarch.md",
+    "Ja VoidOs.md",
     "sonstiges",
     "banana"
   ]

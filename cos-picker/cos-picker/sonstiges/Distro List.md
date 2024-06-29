@@ -8,6 +8,9 @@
 	- [x] Linux Mint
 	- [x] Pop!OS
 	- [x] NixOS
+	- [ ] Tails
+	- [ ] Kali Linux
+	- [ ] QubesOS
 - Handy:
 	- [x] Android:
 	  - [ ] Stock
