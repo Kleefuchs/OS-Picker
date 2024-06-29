@@ -14,6 +14,18 @@ body {
     font-family: Poppins;
 }
 
+.heading {
+    font-size: 4.5vw;
+    color: darkgray;
+    padding-bottom: 50px;
+}
+
+@media (orientation: portrait) {
+    .heading {
+        font-size: 5.5vh;
+    }
+}
+
 .maindiv {
     width: 90%;
     height: 90%;
@@ -25,17 +37,17 @@ body {
     font-size: 2vw;
 }
 
+@media (orientation: portrait) {
+    .maindiv {
+        font-size: 3vh;
+    }
+}
+
 .questiondiv {
     background-color: rgba(194,194,194, 0.7);
     border-radius: 15px;
     flex: 1;
     display: flex;
-}
-
-h1 {
-    color: white;
-    padding-bottom: 10px;
-    font-size: 4vw;
 }
 
 #question-box {
@@ -52,7 +64,14 @@ h1 {
     background-color: #F5F5F5;
     border: none;
     border-radius: 5px;
-    min-width: 50px;
+    min-width: 10%;
+}
+
+@media (orientation: portrait) {
+    .question-button {
+        font-size: 3.25vh;
+        min-width: 60%;
+    }
 }
 
 .question-button:hover {
