@@ -1,9 +1,9 @@
 {
     "name": "test",
-    "text": "Do you like testing?",
+    "text": "Handy oder Desktop?",
     "buttons": [
         {
-            "text": "No",
+            "text": "Handy",
             "nextPath": "0"
         },
         {

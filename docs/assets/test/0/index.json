@@ -1,13 +1,13 @@
 {
-    "name": "test",
-    "text": "Are you a human?",
+    "name": "Freiheit?",
+    "text": "Freiheit oder Sicherheit?",
     "buttons": [
         {
-            "text": "No",
+            "text": "Freiheit",
             "nextPath": "0"
         },
         {
-            "text": "Yes",
+            "text": "Sicherheit",
             "nextPath": "1"
         }
     ]
