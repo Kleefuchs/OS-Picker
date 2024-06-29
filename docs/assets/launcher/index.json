@@ -1,10 +1,11 @@
 {
     "name": "OS-Picker Launcher",
-    "text": "HILFE, Dein Gerät wurde gestaubsaugt, jetzt brauchst du ein neues Betriebssystem!!",
+    "imagePath": "image.png",
+    "text": "HILFE, Dein Gerät wurde von einem gefährlichen Virus befallen. Du musst dir ein neues Betriebssystem hohlen!",
     "buttons": [
         {
             "text": "Start",
-            "nextPath": "../main"
+            "nextPath": "../test"
         }
     ]   
 }
