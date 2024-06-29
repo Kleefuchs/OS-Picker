@@ -1,6 +1,5 @@
 {
     "name": "OS-Picker Launcher",
-    "imagePath": "image.png",
     "text": "HILFE, Dein Gerät wurde von einem gefährlichen Virus befallen. Du musst dir ein neues Betriebssystem hohlen!",
     "buttons": [
         {
