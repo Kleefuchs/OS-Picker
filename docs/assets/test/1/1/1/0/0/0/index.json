@@ -1,6 +1,6 @@
 {
-    "text": "Konfiguration",
-    "description": "Möchtest du dein System konfigurieren können?",
+    "text": "Erfahrung",
+    "description": "Möchtest du eine einfache Benutzererfahrung ?",
     "buttons": [
         {
             "text": "Nein",

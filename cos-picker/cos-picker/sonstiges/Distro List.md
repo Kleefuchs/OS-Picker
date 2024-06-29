@@ -1,12 +1,12 @@
 - Mainstream Linux Distros:
 	- [ ] Arch Linux
 	- [ ] Fedora
-	- [ ] Debian
-	- [ ] Ubuntu
+	- [x] Debian
+	- [x] Ubuntu
 	- [ ] ZorinOS
 	- [ ] Gentoo
-	- [ ] Linux Mint
-	- [ ] Pop!OS
+	- [x] Linux Mint
+	- [x] Pop!OS
 	- [ ] NixOS
 - Handy:
 	- [x] Android:
@@ -18,7 +18,7 @@
 	- [ ] Justin Biber Linux
 	- [ ] red-star-OS
 - Desktop:
-	- [ ] Windows
+	- [x] Windows
 	- [ ] macOS
 	- [ ] FreeBSD
 	- [ ] TempleOS

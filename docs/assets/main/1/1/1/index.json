@@ -1,6 +1,6 @@
 {
-    "text": "Konfiguration",
-    "description": "Möchtest du dein System konfigurieren können?",
+    "text": "Spaß?",
+    "description": "Soll die Distro zum Spaß verwendet werden?",
     "buttons": [
         {
             "text": "Nein",

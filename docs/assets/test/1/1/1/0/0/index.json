@@ -1,6 +1,6 @@
 {
-    "text": "Konfiguration",
-    "description": "Möchtest du dein System konfigurieren können?",
+    "text": "Server",
+    "description": "Möchtest du einen Server verwalten ?",
     "buttons": [
         {
             "text": "Nein",

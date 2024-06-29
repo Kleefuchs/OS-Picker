@@ -4,10 +4,11 @@ html {
 
 body {
     display: flex;
-    background-image: url("background.jpg");
+    background-image: url("background/background.jpg");
     height: 100%;
     align-items: center;
     margin: 0;
+    background-repeat: repeat;
 }
 
 .maindiv {
@@ -27,7 +28,7 @@ body {
     display: flex;
 }
 
-h2 {
+h1 {
     color: white;
     padding-bottom: 10px;
 }

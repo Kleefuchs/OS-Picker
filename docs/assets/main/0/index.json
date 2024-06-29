@@ -1,0 +1,14 @@
+{
+    "name": "Freiheit?",
+    "text": "Freiheit oder Sicherheit?",
+    "buttons": [
+        {
+            "text": "Freiheit",
+            "nextPath": "0"
+        },
+        {
+            "text": "Sicherheit",
+            "nextPath": "1"
+        }
+    ]
+}

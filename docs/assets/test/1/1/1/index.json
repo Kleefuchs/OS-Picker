@@ -1,0 +1,14 @@
+{
+    "text": "Unabhängig",
+    "description": "Möchtest du Linux zum Spaß verwenden?",
+    "buttons": [
+        {
+            "text": "Kein Spaß",
+            "nextPath": "0"
+        },
+        {
+            "text": "Spaß",
+            "nextPath": "1"
+        }
+    ]
+}

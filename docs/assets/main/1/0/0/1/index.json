@@ -1,6 +1,6 @@
 {
-    "text": "Konfiguration",
-    "description": "Möchtest du dein System konfigurieren können?",
+    "name": "Quelle",
+    "text": "Möchtest du ein Quelloffenes Betriebssystem?",
     "buttons": [
         {
             "text": "Nein",

@@ -1,0 +1,14 @@
+{
+    "text": "Programmieren",
+    "description": "Kannst du Programmieren (SCRATCH ZÄHLT NICHT!!!!!!)",
+    "buttons": [
+        {
+            "text": "Ich kann nicht programmieren",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ich kann programmieren",
+            "nextPath": "1"
+        }
+    ]
+}

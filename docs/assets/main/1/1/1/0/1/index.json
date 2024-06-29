@@ -1,6 +1,6 @@
 {
-    "text": "Konfiguration",
-    "description": "Möchtest du dein System konfigurieren können?",
+    "text": "Benutzerfreundlichkeit",
+    "description": "Soll die Distro einfach benutzbar sein?",
     "buttons": [
         {
             "text": "Nein",
@@ -9,6 +9,10 @@
         {
             "text": "Ja",
             "nextPath": "1"
+        },
+        {
+            "text": "Sehr",
+            "nextPath": "2"
         }
     ]
 }

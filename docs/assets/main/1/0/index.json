@@ -1,6 +1,6 @@
 {
-    "text": "Konfiguration",
-    "description": "Möchtest du dein System konfigurieren können?",
+    "text": "Apple?",
+    "description": "Besitzt du einen Mac?",
     "buttons": [
         {
             "text": "Nein",
