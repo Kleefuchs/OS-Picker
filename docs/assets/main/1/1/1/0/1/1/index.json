@@ -1,6 +1,6 @@
 {
-    "text": "Alter",
-    "description": "Möchtest du eine alte Distro verwenden?",
+    "text": "Server",
+    "description": "Möchtest du das Gerät als Server verwenden?",
     "buttons": [
         {
             "text": "Nein",

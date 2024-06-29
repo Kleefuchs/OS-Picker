@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "Ja VoidOs.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "Ja VoidOs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "Ja VoidOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "Ja VoidOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sonstiges/Distro List.md"
+                "file": "Ja VoidOs.md"
               }
             }
           }
@@ -189,10 +189,11 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
-    "Nein nyarch, AstolfoOs, red star.md",
     "Nein VoidOS, AstolfoOS, nyarch.md",
-    "Ja VoidOs.md",
     "Nein Hannah Montanna, Justin Biber,voidOS, AstolfoOS, nyarch.md",
+    "Ja VoidOs.md",
+    "sonstiges/Distro List.md",
+    "Nein nyarch, AstolfoOs, red star.md",
     "Ja Spaß.md",
     "Ja Hannah Montanna, Justin Biber.md",
     "Desktop.md",
@@ -204,7 +205,6 @@
     "Nein, kein guter Computer.md",
     "Windows 10.md",
     "Firmengesteuert.md",
-    "sonstiges/Distro List.md",
     "Ja Arch, NixOS.md",
     "Nein kein Spaß.md",
     "Nein Debian, Fedora, ZorinOS, Mint.md",

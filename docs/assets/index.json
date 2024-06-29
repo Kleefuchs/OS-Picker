@@ -1,0 +1,14 @@
+{
+    "name": "OS-Picker Launcher",
+    "text": "Achtung! Dein Gerät wurde von einem gefährlichen Virus befallen! Du musst dir ein neues Betriebssystem holen!",
+    "buttons": [
+        {
+            "text": "Start",
+            "nextPath": "main"
+        },
+        {
+            "text": "Start (Alt)",
+            "nextPath": "test"
+        }
+    ]   
+}

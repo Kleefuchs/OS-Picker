@@ -4,7 +4,7 @@ let questionImages = document.getElementById("question-images");
 let questionButtons = document.getElementById("question-buttons");
 let questionLinkText = document.getElementById("question-linktext");
 
-let treeFolderOriginal = "assets/launcher";
+let treeFolderOriginal = "assets";
 
 /*
  * Stores all data
@@ -65,7 +65,6 @@ function setQuestionData(name, text, imagePath, description, buttons, linktext, 
 */
 
 function createImage(imagePath, index) {
-    console.log(imagePath);
     let image = document.createElement("img");
     image.src = imagePath;
     image.className = "question-image";
@@ -135,11 +134,13 @@ function addButtons() {
         backButton.id = "question-button-back";
         backButton.className = "question-button";
         backButton.onclick = function () {
+            let count = 0;
             for(let index = questionData.currentPath.length - 1; index >= 0; index--) {
                 if(questionData.currentPath[index]=='/') {
+                    questionData.currentPath = questionData.currentPath.slice(0, index - questionData.currentPath.length);
                     break;
                 }
-                console.log(questionData.currentPath[index]);
+                count++;
             }
             init(questionData.currentPath);
         }
@@ -160,7 +161,6 @@ function setLinkText() {
 */
 
 async function init(path) {
-    console.log(path)
     await $.getJSON(path + "/index.json", function (data) {
         setQuestionData(data.name, data.text, data.imagePath, data.description, data.buttons, data.linktext, path);
     });
