@@ -1,12 +1,13 @@
 body {
-    background-color: #E0E0E0;
+    background-image: url("background.jpg");
+    height: 100%;
 }
 
 .maindiv {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: solid;
-    top: 10%;
-    bottom: 10%;
+    margin: 20px;
+    background-color: rgba(194,194,194, 0.4);
+    border-radius: 15px;
 }
