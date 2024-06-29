@@ -1,13 +1,13 @@
 {
     "text": "Benutzerfreundlichkeit",
-    "description": "Soll die Distro einfach benutzbar sein?",
+    "description": "Wie einfach soll die Distribution bedient werden?",
     "buttons": [
         {
-            "text": "Nein",
+            "text": "Wenig",
             "nextPath": "0"
         },
         {
-            "text": "Ja",
+            "text": "Etwas",
             "nextPath": "1"
         },
         {
