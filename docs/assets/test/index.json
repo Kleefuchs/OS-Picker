@@ -1,6 +1,7 @@
 {
     "name": "test",
     "text": "Do you like testing?",
+    "description": "If you do press Yes",
     "buttons": [
         {
             "text": "No",
