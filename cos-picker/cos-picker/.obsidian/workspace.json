@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nein nyarch, AstolfoOs, red star.md",
+                "file": "sonstiges/Distro List.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nein nyarch, AstolfoOs, red star.md",
+                "file": "sonstiges/Distro List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nein nyarch, AstolfoOs, red star.md",
+                "file": "sonstiges/Distro List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nein nyarch, AstolfoOs, red star.md",
+                "file": "sonstiges/Distro List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nein nyarch, AstolfoOs, red star.md"
+                "file": "sonstiges/Distro List.md"
               }
             }
           }
@@ -189,9 +189,9 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
+    "Nein nyarch, AstolfoOs, red star.md",
     "Nein VoidOS, AstolfoOS, nyarch.md",
     "Ja VoidOs.md",
-    "Nein nyarch, AstolfoOs, red star.md",
     "Nein Hannah Montanna, Justin Biber,voidOS, AstolfoOS, nyarch.md",
     "Ja Spaß.md",
     "Ja Hannah Montanna, Justin Biber.md",

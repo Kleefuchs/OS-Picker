@@ -4,7 +4,7 @@
 	- [x] Debian
 	- [x] Ubuntu
 	- [x] ZorinOS
-	- [ ] Gentoo
+	- [x] Gentoo
 	- [x] Linux Mint
 	- [x] Pop!OS
 	- [x] NixOS
@@ -19,6 +19,6 @@
 	- [ ] red-star-OS
 - Desktop:
 	- [x] Windows
-	- [ ] macOS
+	- [x] macOS
 	- [ ] FreeBSD
 	- [ ] TempleOS
