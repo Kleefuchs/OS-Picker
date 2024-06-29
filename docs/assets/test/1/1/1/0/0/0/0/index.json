@@ -1,0 +1,14 @@
+{
+    "text": "Erfahrung",
+    "description": "Möchtest du eine Option auf eine Bezahlte Version deines Betriebssystems ?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}

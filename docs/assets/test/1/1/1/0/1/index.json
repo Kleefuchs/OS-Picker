@@ -1,0 +1,15 @@
+{
+    "text": "Keine Ahnung",
+    "description": "möchtest du eine deklarative konfiguration für dein System,wenn du nicht weist was dies bedeutet klicke nein. ",
+
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}

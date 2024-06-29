@@ -1,0 +1,14 @@
+{
+    "text": "NVidia",
+    "description": "Möchtest du Kde benutzen ?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}

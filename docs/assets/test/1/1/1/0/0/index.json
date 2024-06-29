@@ -1,0 +1,14 @@
+{
+    "text": "Server",
+    "description": "Möchtest du einen Server verwalten ?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}

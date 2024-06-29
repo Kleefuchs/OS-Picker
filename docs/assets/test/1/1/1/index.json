@@ -1,13 +1,13 @@
 {
-    "text": "Firmengesteuert?",
-    "description": "Soll die Distro in den Händen einer Firma liegen oder soll es unabhängig sein?",
+    "text": "Unabhängig",
+    "description": "Möchtest du Linux zum Spaß verwenden?",
     "buttons": [
         {
-            "text": "Firmengesteuert",
+            "text": "Kein Spaß",
             "nextPath": "0"
         },
         {
-            "text": "Unabhängig",
+            "text": "Spaß",
             "nextPath": "1"
         }
     ]
