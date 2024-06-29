@@ -1,14 +1,15 @@
 body {
-background-color: rgb(151, 199, 155);
-color: rgb(102, 29, 29);
-font-size: 150%;
+    background-image: url("background.jpg");
+    height: 100%;
 }
 
-.startdiv {
-position: absolute;
-left: 5%;
-top: 0%;
-margin: 5%;
-padding-bottom:30%;
-background-color:rgb(255, 255, 255);
+.maindiv {
+    width: 90%;
+    height: 90%;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    background-color: rgba(194,194,194, 0.4);
+    border-radius: 15px;
+    position: fixed;
 }
