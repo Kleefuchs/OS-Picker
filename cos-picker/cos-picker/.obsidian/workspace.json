@@ -13,9 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ja Gentoo.md",
+                "file": "Ja Arch, NixOS.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a297821153528e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ebfe33f0b85a07",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ja Arch, NixOS.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
               }
             }
           }
@@ -69,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9131aad5ab6c439d",
@@ -86,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ja Gentoo.md",
+                "file": "Ja Arch, NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ja Gentoo.md",
+                "file": "Ja Arch, NixOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ja Gentoo.md"
+                "file": "Ja Arch, NixOS.md"
               }
             }
           }
@@ -150,31 +190,31 @@
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
     "Nein kein Spaß.md",
+    "Nein Debian, Fedora, ZorinOS, Mint.md",
+    "Nein Fedora, ZorinOS, Mint.md",
+    "Nein Zorin, Fedora.md",
+    "Ja ZorinOS.md",
+    "sonstiges/Distro List.md",
     "Unabhängig.md",
+    "Ja.md",
+    "Desktop.md",
+    "Handy oder destkop ?.md",
+    "MacOS.md",
+    "Ja Mint.md",
+    "Ja Debian.md",
+    "Firmengesteuert.md",
+    "Nö (Ubuntu).md",
+    "Ja (POP OS).md",
+    "Ja BSD , Gentoo.md",
     "Ja, ein guter Computer.md",
     "Windows.md",
     "Nein, kein guter Computer.md",
-    "Windows 10.md",
     "Nein ich besitze kein Apple gerät.md",
     "Nein.md",
-    "Desktop.md",
-    "Handy oder destkop ?.md",
-    "Ja.md",
-    "Ja Spaß.md",
-    "Firmengesteuert.md",
-    "sonstiges/Distro List.md",
-    "Nein Kubes.md",
-    "Nein Kali.md",
-    "Nein Arch,tails,kali,Kubes.md",
+    "Ja ich besitze bereits ein Apple gerät.md",
     "Ja tails,kubes.md",
-    "Ja tails,kali,kubes.md",
+    "Nein Kubes.md",
     "Ja Tails.md",
-    "Nein nyarch.md",
-    "Nein nyarch, AstolfoOs, red star.md",
-    "Freiheit Android.md",
-    "handy.md",
-    "Windows 11.md",
-    "Ja Arch, NixOS.md",
     "sonstiges",
     "banana"
   ]

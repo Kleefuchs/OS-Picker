@@ -1,7 +1,6 @@
 {
-    "text": "Keine Ahnung",
-    "description": "möchtest du eine deklarative konfiguration für dein System,wenn du nicht weist was dies bedeutet klicke nein. ",
-
+    "text": "Server",
+    "description": "Möchtest du einen Server verwalten ?",
     "buttons": [
         {
             "text": "Nein",

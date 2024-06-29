@@ -1,7 +1,6 @@
 {
-    "text": "Keine Ahnung",
-    "description": "möchtest du eine deklarative konfiguration für dein System,wenn du nicht weist was dies bedeutet klicke nein. ",
-
+    "text": "Firmengesteuert",
+    "description": "Hast du eine NVidia Grafikkarte?",
     "buttons": [
         {
             "text": "Nein",

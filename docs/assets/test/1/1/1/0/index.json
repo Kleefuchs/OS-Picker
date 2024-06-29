@@ -1,13 +1,13 @@
 {
-    "text": "Nvidia",
-    "description": "Hast du eine Nvidia Grafikkarte?",
+    "text": "Programmieren",
+    "description": "Kannst du Programmieren (SCRATCH ZÄHLT NICHT!!!!!!)",
     "buttons": [
         {
-            "text": "Nein",
+            "text": "Ich kann nicht programmieren",
             "nextPath": "0"
         },
         {
-            "text": "Ja",
+            "text": "Ich kann programmieren",
             "nextPath": "1"
         }
     ]
