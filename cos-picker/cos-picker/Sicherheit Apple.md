@@ -1,0 +1,1 @@
+Die größten Features von IOS sind das man in einem sehr sicheren Umfeld existiert und durch Dinge wie icloud auch direkt von Apple eine E-mail bereitgestellt bekommt. Jugendschutz ist auch ein sehr großer Punkt bei IOS. 
