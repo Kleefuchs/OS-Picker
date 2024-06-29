@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "MacOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "MacOS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "MacOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sonstiges/Distro List.md",
+                "file": "MacOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sonstiges/Distro List.md"
+                "file": "MacOS.md"
               }
             }
           }
@@ -189,13 +189,13 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
-    "Desktop.md",
-    "Nein.md",
     "Ja ich besitze bereits ein Apple gerät.md",
+    "Nein.md",
+    "Desktop.md",
+    "sonstiges/Distro List.md",
     "Nein ich besitze kein Apple gerät.md",
     "Windows.md",
     "Ja, ein guter Computer.md",
-    "sonstiges/Distro List.md",
     "Ja tails,kubes.md",
     "Nein Kubes.md",
     "Ja Tails.md",
