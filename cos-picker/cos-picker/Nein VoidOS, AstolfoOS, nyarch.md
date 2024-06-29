@@ -1,3 +1,3 @@
 möchtest du eine Komplett unabhängige erfahrung ? 
 
-[[Ja VoidOs]]  [[Nein nyarch, AstolfoOs]]  
+[[Ja VoidOs]]  [[Nein nyarch, AstolfoOs, red star]]  
