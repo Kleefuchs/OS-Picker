@@ -1,0 +1,14 @@
+{
+    "text": "Nvidia",
+    "description": "Hast du eine Nvidia Grafikkarte?",
+    "buttons": [
+        {
+            "text": "Firmengesteuert",
+            "nextPath": "0"
+        },
+        {
+            "text": "Unabhängig",
+            "nextPath": "1"
+        }
+    ]
+}
