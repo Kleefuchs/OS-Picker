@@ -1,33 +1,24 @@
 - Mainstream Linux Distros:
-	- [x] Arch Linux
-	- [x] Fedora
-	- [x] Debian
-	- [x] Ubuntu
-	- [x] ZorinOS
-	- [x] Gentoo
-	- [x] Linux Mint
-	- [x] Pop!OS
-	- [x] NixOS
-	- [ ] Tails
-	- [ ] Kali Linux
-	- [ ] QubesOS
+	- [ ] Arch Linux
+	- [ ] Fedora
+	- [ ] Debian
+	- [ ] Ubuntu
+	- [ ] ZorinOS
+	- [ ] Gentoo
+	- [ ] Linux Mint
+	- [ ] Pop!OS
+	- [ ] NixOS
 - Handy:
 	- [x] Android:
-	  - [ ] Stock
-	  - [ ] GrapheneOS
-	  - [ ] Lineage OS
 	- [x] iOS
-	- [x] Ubuntu Touch
-	- [x] Postmarket OS
-	- [x] Windows Phone
 - Weird Linux Distros:
-	- [x] Hannah Montana Linux
-	- [x] Void Linux
-	- [x] Slackware
-	- [x] Justin Biber Linux
-	- [x] red-star-OS
+	- [ ] Hannah Montana Linux
+	- [ ] Void Linux
+	- [ ] Slackware
+	- [ ] Justin Biber Linux
+	- [ ] red-star-OS
 - Desktop:
-	- [x] Windows
-	- [x] macOS
-	- [x] FreeBSD
-	- [x] TempleOS
+	- [ ] Windows
+	- [ ] macOS
+	- [ ] FreeBSD
+	- [ ] TempleOS
