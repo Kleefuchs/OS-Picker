@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MacOS.md",
+                "file": "Windows 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MacOS.md",
+                "file": "Windows 10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MacOS.md",
+                "file": "Windows 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MacOS.md",
+                "file": "Windows 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MacOS.md"
+                "file": "Windows 10.md"
               }
             }
           }
@@ -189,17 +189,17 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
-    "Ja ich besitze bereits ein Apple gerät.md",
-    "MacOS.md",
-    "Nein.md",
-    "Desktop.md",
-    "Handy oder destkop ?.md",
-    "handy.md",
-    "Freiheit Android.md",
-    "Firmengesteuert.md",
-    "Sicherheit Apple.md",
-    "Ja Arch, NixOS.md",
+    "Nein nyarch.md",
     "Nein nyarch, AstolfoOs, red star.md",
+    "Freiheit Android.md",
+    "handy.md",
+    "sonstiges/Distro List.md",
+    "Windows 11.md",
+    "Windows 10.md",
+    "Windows.md",
+    "Ja Arch, NixOS.md",
+    "MacOS.md",
+    "Sicherheit Apple.md",
     "Nein AstolfOS, Nyarch.md",
     "Ja Red star OS.md",
     "Nein kein Spaß.md",
@@ -207,14 +207,14 @@
     "Nein Debian, Fedora, ZorinOS, Mint.md",
     "Unabhängig.md",
     "Ja.md",
-    "sonstiges/Distro List.md",
+    "Desktop.md",
     "Ja Spaß.md",
     "Ja slackware, TempleOs.md",
     "Nein slackware.md",
     "Nein nyarch, AstolfoOs.md",
     "Ja AstolfoOS.md",
-    "Nein nyarch.md",
     "Nein VoidOS, AstolfoOS, nyarch.md",
+    "Ja VoidOs.md",
     "sonstiges",
     "banana"
   ]
