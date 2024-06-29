@@ -1,13 +1,30 @@
 body {
-background-color: rgb(1, 8, 8);
-color: antiquewhite;
+background-color: antiquewhite;
+color: black;
 }
 
-p {
+.startdiv {
 position: absolute;
-left: 15%;
+left: 10%;
+right: 10%;
 top: 20%;
+bottom: 20%;
 padding:10%;
-border-radius: 20%;;
-background-color: rgb(207, 14, 14);
+border-color: black;
+border: solid;
+text-align: center;
+}
+
+a {
+    text-decoration: none;
+    border: solid;
+    padding: 10px;
+    border-radius: 100%;
+    border-color: black;
+    color: black;
+
+}
+
+a:hover {
+    text-decoration: underline;
 }
