@@ -4,7 +4,7 @@ let questionImages = document.getElementById("question-images");
 let questionButtons = document.getElementById("question-buttons");
 let questionLinkText = document.getElementById("question-linktext");
 
-let treeFolderOriginal = "assets/launcher";
+let treeFolderOriginal = "assets";
 
 /*
  * Stores all data
@@ -135,11 +135,14 @@ function addButtons() {
         backButton.id = "question-button-back";
         backButton.className = "question-button";
         backButton.onclick = function () {
+            let count = 0;
             for(let index = questionData.currentPath.length - 1; index >= 0; index--) {
                 if(questionData.currentPath[index]=='/') {
+                    questionData.currentPath = questionData.currentPath.slice(0, index - questionData.currentPath.length);
                     break;
                 }
                 console.log(questionData.currentPath[index]);
+                count++;
             }
             init(questionData.currentPath);
         }
