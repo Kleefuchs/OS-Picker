@@ -66,6 +66,7 @@ function createImage(imagePath, index) {
 }
 
 function addImages() {
+    questionImages.innerHTML = "";
     if(questionData.imagePath==undefined) {
         return;
     }
