@@ -1,0 +1,18 @@
+{
+    "text": "Benutzerfreundlichkeit",
+    "description": "Soll die Distro einfach benutzbar sein?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        },
+        {
+            "text": "Sehr",
+            "nextPath": "2"
+        }
+    ]
+}

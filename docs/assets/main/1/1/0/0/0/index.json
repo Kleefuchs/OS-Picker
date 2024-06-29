@@ -1,5 +1,5 @@
 {
     "text": "Kubuntu",
-    "description": "Gentoo ist eine Quellbasierte Linux Distribution. Dies bedeutet, dass alle Pakete Lokal Kompiliert werden, was für mehr Sicherheit sorgt.",
-    "linktext": "<a href='https://gentoo.org'>Download</a>"
+    "description": "Kubuntu ist eine veränderte Version von Ubuntu, welche die KDE Plasma Benutzeroberfläche verwendet.",
+    "linktext": "<a href='https://kubuntu.org'>Download</a>"
 }

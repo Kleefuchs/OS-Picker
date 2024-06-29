@@ -1,5 +1,5 @@
 {
     "text": "Ubuntu",
-    "description": "Gentoo ist eine Quellbasierte Linux Distribution. Dies bedeutet, dass alle Pakete Lokal Kompiliert werden, was für mehr Sicherheit sorgt.",
-    "linktext": "<a href='https://gentoo.org'>Download</a>"
+    "description": "Ubuntu ist die am meisten genutzte Linux Distribution. Sie zeichnet sich durch ihre große Benutzerfreundlichkeit aus. Das modifizierte Gnome sorgt für ein an macOS anlehnendes Design.",
+    "linktext": "<a href='https://ubuntu.com'>Download</a>"
 }
