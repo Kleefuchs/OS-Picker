@@ -1,0 +1,10 @@
+{
+    "name": "OS-Picker Launcher",
+    "text": "OS-Picker Launcher",
+    "buttons": [
+        {
+            "text": "Start",
+            "nextPath": "../test"
+        }
+    ]   
+}
