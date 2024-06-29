@@ -1,0 +1,14 @@
+{
+    "text": "Server",
+    "description": "Möchtest du das Gerät als Server verwenden?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}
