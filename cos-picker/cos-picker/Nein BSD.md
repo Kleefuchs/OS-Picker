@@ -1,0 +1,1 @@
+BSD ist Unix Basiert Und ist dafür gedacht höhrere Geschwindigkeiten und größere Kompatibilität zu bieten, und ein gutes Umfeld für Systemadministratoren zu bieten. 

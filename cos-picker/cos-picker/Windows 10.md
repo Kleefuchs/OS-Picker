@@ -1,0 +1,2 @@
+Windows ist das bekannteste Betriebssystem und mit Windows 10 hat man deutlich weniger Bloatware als auf Windows 10.
+Gute Features von Windows10 sind Kompatibilität z.b. mit Spielen wie Fortnite oder Riot Games Spielen. 
