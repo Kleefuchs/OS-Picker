@@ -2,6 +2,11 @@ body {
     background-color: #E0E0E0;
 }
 
-.startdiv {
-    position: absolute;
+.maindiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+    top: 10%;
+    bottom: 10%;
 }
