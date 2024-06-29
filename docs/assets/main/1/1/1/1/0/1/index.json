@@ -1,13 +1,13 @@
 {
-    "text": "Hannah Montana oder Justin Biber",
-    "description": "Magst du Hannah Montana oder Justin Biber mehr?",
+    "text": "Hannah Montana oder Justin Bieber",
+    "description": "Magst du Hannah Montana oder Justin Bieber mehr?",
     "buttons": [
         {
             "text": "Hannah Montana",
             "nextPath": "0"
         },
         {
-            "text": "Justin Biber",
+            "text": "Justin Bieber",
             "nextPath": "1"
         }
     ]
