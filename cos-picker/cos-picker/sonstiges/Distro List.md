@@ -12,11 +12,11 @@
 	- [x] Android:
 	- [x] iOS
 - Weird Linux Distros:
-	- [ ] Hannah Montana Linux
+	- [x] Hannah Montana Linux
 	- [ ] Void Linux
-	- [ ] Slackware
-	- [ ] Justin Biber Linux
-	- [ ] red-star-OS
+	- [x] Slackware
+	- [x] Justin Biber Linux
+	- [x] red-star-OS
 - Desktop:
 	- [x] Windows
 	- [x] macOS

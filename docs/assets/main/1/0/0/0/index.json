@@ -1,7 +1,15 @@
 {
-    "text": "Windows 10",
-    "description": "Windows ist das bekannteste Betriebssystem und mit Windows 10 hat man deutlich weniger Bloatware als auf Windows 11. Gute Features von Windows 10 sind Kompatibilität z.B. mit Spielen wie Fortnite oder GTA V.",
-    "linktext": "<a href='https://www.allkeyshop.com/blog/buy-windows-10-professional-cd-key-compare-prices/'>Download</a>"
-    
+    "text": "Religion",
+    "description": "Bist du Religiös?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
 
 }
