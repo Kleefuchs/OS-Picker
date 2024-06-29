@@ -1,6 +1,6 @@
 {
-    "text": "Gute Performance?",
-    "description": "Besitzt du einen guten Computer?",
+    "text": "Windows",
+    "description": "Möchtest du Windows verwenden? (Keine Gute Idee)",
     "buttons": [
         {
             "text": "Nein",

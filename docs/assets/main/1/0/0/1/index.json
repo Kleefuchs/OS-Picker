@@ -1,6 +1,6 @@
 {
-    "name": "Quelle",
-    "text": "Möchtest du ein Quelloffenes Betriebssystem?",
+    "text": "Anforderungen",
+    "description": "Unterstützt dein Gerät TPM 2.0 und Secure Boot? Wenn du dir unsicher bist, wähle Nein",
     "buttons": [
         {
             "text": "Nein",
