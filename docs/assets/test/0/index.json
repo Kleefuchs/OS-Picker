@@ -1,6 +1,6 @@
 {
     "name": "test",
-    "text": "Do you like testing?",
+    "text": "Are you a human?",
     "buttons": [
         {
             "text": "No",
