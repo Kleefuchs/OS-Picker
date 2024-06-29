@@ -1,0 +1,14 @@
+{
+    "text": "Spaß?",
+    "description": "Soll die Distro zum Spaß verwendet werden?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}

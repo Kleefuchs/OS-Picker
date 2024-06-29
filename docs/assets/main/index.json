@@ -1,0 +1,14 @@
+{
+    "text": "Handy oder Computer?",
+    "description": "Welches Gerät verwendest du?",
+    "buttons": [
+        {
+            "text": "Handy",
+            "nextPath": "0"
+        },
+        {
+            "text": "Computer",
+            "nextPath": "1"
+        }
+    ]
+}

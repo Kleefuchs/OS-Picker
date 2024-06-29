@@ -1,0 +1,14 @@
+{
+    "text": "Apple?",
+    "description": "Besitzt du einen Mac?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}

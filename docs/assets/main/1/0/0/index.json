@@ -1,0 +1,14 @@
+{
+    "name": "Computer",
+    "text": "Besitzt du einen guten Computer?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
+}
