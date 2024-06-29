@@ -1,6 +1,6 @@
 {
-    "text": "Nvidia",
-    "description": "Hast du eine Nvidia Grafikkarte?",
+    "text": "Spaß?",
+    "description": "Soll die Distro zum Spaß verwendet werden?",
     "buttons": [
         {
             "text": "Nein",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firmengesteuert.md",
+                "file": "Ja, ein guter Computer.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firmengesteuert.md",
+                "file": "Ja, ein guter Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firmengesteuert.md",
+                "file": "Ja, ein guter Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firmengesteuert.md"
+                "file": "Ja, ein guter Computer.md"
               }
             }
           }
@@ -149,11 +149,17 @@
   },
   "active": "627c5ad31bf4dc31",
   "lastOpenFiles": [
-    "Ja.md",
-    "Unabhängig.md",
-    "Firmengesteuert.md",
+    "Windows.md",
+    "Nein, kein guter Computer.md",
+    "Windows 10.md",
+    "Nein ich besitze kein Apple gerät.md",
+    "Nein.md",
     "Desktop.md",
     "Handy oder destkop ?.md",
+    "Ja.md",
+    "Unabhängig.md",
+    "Ja Spaß.md",
+    "Firmengesteuert.md",
     "sonstiges/Distro List.md",
     "Nein Kubes.md",
     "Nein Kali.md",
@@ -161,20 +167,14 @@
     "Ja tails,kubes.md",
     "Ja tails,kali,kubes.md",
     "Ja Tails.md",
-    "Windows 10.md",
     "Nein nyarch.md",
     "Nein nyarch, AstolfoOs, red star.md",
     "Freiheit Android.md",
     "handy.md",
     "Windows 11.md",
-    "Windows.md",
     "Ja Arch, NixOS.md",
     "MacOS.md",
     "Sicherheit Apple.md",
-    "Nein AstolfOS, Nyarch.md",
-    "Ja Red star OS.md",
-    "Nein kein Spaß.md",
-    "Ja Debian.md",
     "sonstiges",
     "banana"
   ]
