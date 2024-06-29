@@ -9,8 +9,8 @@
 	- [ ] Pop!OS
 	- [ ] NixOS
 - Handy:
-	- [x] Android:
-	- [x] iOS
+	- [ ] Android:
+	- [ ] iOS
 - Weird Linux Distros:
 	- [ ] Hannah Montana Linux
 	- [ ] Void Linux
@@ -18,7 +18,7 @@
 	- [ ] Justin Biber Linux
 	- [ ] red-star-OS
 - Desktop:
-	- [x] Windows
+	- [ ] Windows
 	- [ ] macOS
 	- [ ] FreeBSD
 	- [ ] TempleOS
