@@ -5,10 +5,6 @@
         {
             "text": "Start",
             "nextPath": "main"
-        },
-        {
-            "text": "Start (Alt)",
-            "nextPath": "test"
         }
     ]   
 }
