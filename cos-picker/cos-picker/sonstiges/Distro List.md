@@ -10,7 +10,9 @@
 	- [x] NixOS
 - Handy:
 	- [x] Android:
+		- [ ] GrapheneOS
 	- [x] iOS
+	- [x] Ubuntu Touch
 - Weird Linux Distros:
 	- [x] Hannah Montana Linux
 	- [ ] Void Linux
@@ -20,5 +22,5 @@
 - Desktop:
 	- [x] Windows
 	- [x] macOS
-	- [ ] FreeBSD
-	- [ ] TempleOS
+	- [x] FreeBSD
+	- [x] TempleOS

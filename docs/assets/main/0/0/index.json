@@ -1,6 +1,15 @@
 {
-    "name": "Android",
-    "text": "Dein Perfektes Betriebssystem ist Android. Android ist ein Linux basiertes von Google entwickeltes Betriebssystem das auf sehr vielen Mobiltelefonen läuft. Die Größten Features von Android sind die Große App Freiheit die zum Beispiel auch Apk's gewährleistet werden. (Apk's sind Paketdateien für Apps die man im Internet runterladen kann).",
-    "linktext": "<a href='https://www.android.com'>Kaufen</a>"
+    "text": "Kompatibilität",
+    "description": "Möchtest du eine Große Kompatibilität mit Apps?",
+    "buttons": [
+        {
+            "text": "Nein",
+            "nextPath": "0"
+        },
+        {
+            "text": "Ja",
+            "nextPath": "1"
+        }
+    ]
     
 }
