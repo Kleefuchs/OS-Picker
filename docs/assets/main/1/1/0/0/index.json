@@ -1,6 +1,6 @@
 {
     "text": "Oberfläche",
-    "description": "Soll die Benutzeroberfläche eher an Windows oder macOS erinnern oder soll es mögich sein, das Layout schnell zu ändern?",
+    "description": "Soll die Benutzeroberfläche eher Windows oder macOS ähneln oder soll es möglich sein das Layout schnell zu ändern?",
     "buttons": [
         {
             "text": "Windows",
