@@ -161,6 +161,7 @@ function setLinkText() {
 */
 
 async function init(path) {
+    console.log(path);
     await $.getJSON(path + "/index.json", function (data) {
         setQuestionData(data.name, data.text, data.imagePath, data.description, data.buttons, data.linktext, path);
     });

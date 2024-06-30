@@ -1,6 +1,6 @@
 {
     "text": "Installation",
-    "description": "Soll die Distro einfach installierbar sein",
+    "description": "Soll die Distro einfach installierbar sein?",
     "buttons": [
         {
             "text": "Nein",

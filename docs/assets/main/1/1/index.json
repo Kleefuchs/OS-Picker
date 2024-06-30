@@ -1,6 +1,6 @@
 {
     "text": "Firmengesteuert?",
-    "description": "Soll die Distro in den Händen einer Firma liegen oder soll es unabhängig sein?",
+    "description": "Soll die Distro in den Händen einer Firma liegen oder soll diese unabhängig sein?",
     "buttons": [
         {
             "text": "Firmengesteuert",

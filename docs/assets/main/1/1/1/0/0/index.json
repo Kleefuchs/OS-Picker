@@ -1,6 +1,6 @@
 {
     "text": "Quellenbasiert",
-    "description": "Sollen alle Pakete Kompiliert werden?",
+    "description": "Willst du die Kompilation der Distro und der Pakete selber durchführen?",
     "buttons": [
         {
             "text": "Nein",

@@ -1,6 +1,6 @@
 {
     "text": "Veröffentlichungsmodell",
-    "description": "Sollen die Pakete nach dem Rolling Release Modell oder dem Versionierten Modell aktualisiert werden? Rolling Release bedeuted, dass die Pakete ohne neue Version der Distro aktualisiert werden, wodurch es auch keine richtigen Versionsnummern gibt",
+    "description": "Sollen die Pakete nach dem Rolling Release Modell oder dem versionierten Modell aktualisiert werden? Rolling Release bedeuted, dass die Pakete ohne neue Version der Distro aktualisiert werden, wodurch es keine richtigen Versionsnummern gibt",
     "buttons": [
         {
             "text": "Versioniert",

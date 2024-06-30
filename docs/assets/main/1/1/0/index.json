@@ -1,6 +1,6 @@
 {
     "text": "Nvidia",
-    "description": "Hast du eine Nvidia Grafikkarte?",
+    "description": "Hast du eine NVidia Grafikkarte?",
     "buttons": [
         {
             "text": "Nein",
