@@ -3,7 +3,7 @@
     "description": "Soll es Zugriff auf ein von der Community verwaltetes Paketdepot geben?",
     "buttons": [
         {
-            "text": "Nein",
+            "text": "Ja",
             "nextPath": "0"
         },
         {
